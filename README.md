@@ -7,6 +7,8 @@
 
 - 🌱 I’m currently learning **Gatsby, GraphQL, Express/NodeJS, MongoDB, Typescript, AWS**
 
+- 💻 See more of what I'm doing here! **https://brandonngo.gatsbyjs.io/**
+
 - 📫 Email me at **b6ngo@uwaterloo.ca**
 
 <h3 align="left">Connect with me:</h3>
