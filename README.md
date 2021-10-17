@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brandngo&label=Profile%20views&color=0e75b6&style=flat" alt="brandngo" /> </p>
 
-- 💼 I’m currently working at **Blackberry**
+- 💼 I’m currently working at **BlackBerry**
 
 - 🌱 I’m currently learning **Gatsby, GraphQL, Express/NodeJS, MongoDB, Typescript, AWS**
 
