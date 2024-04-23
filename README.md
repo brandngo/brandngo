@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brandngo&label=Profile%20views&color=0e75b6&style=flat" alt="brandngo" /> </p>
 
-- 💼 Looking for a Winter 2023 internship! I’ve completed an internship at **BlackBerry** and **TD**
+- 💼 Looking for Winter 2024 internships! I’ve completed an internship at **BlackBerry** and **TD**
 
 - 🌱 I’m currently learning **Python, GCP, AWS, Docker, and Kubernetes**
 
